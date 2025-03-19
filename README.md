@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a **3rd-year Computer Science student** at the
 ![Esad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Integer-Conversion-Error&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Integer-Conversion-Error&theme=dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Integer-Conversion-Error&theme=github-dark)
-![Esad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Integer-Conversion-Error&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
+
 
 
 ## 🏆 Projects & Contributions
