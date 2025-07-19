@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a **3rd-year Computer Science student** at the
 
 ## 🔧 Tech Stack
 - **Languages**: Python, Java, C++, JavaScript, SQL
-- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLP models
+- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLP models, LoRA Fine-Tuning, RAG
 - **Web Development**: Flask, Node.js, React
 - **Databases**: PostgreSQL, MySQL, Firebase
 - **Tools**: Docker, Git, Linux, Jupyter, AWS, Google Cloud
