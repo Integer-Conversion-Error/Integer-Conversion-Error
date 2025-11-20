@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **3rd-year Computer Science student** at the **University of Ottawa**, passionate about **Artificial Intelligence, Machine Learning, and Software Development**. My interests revolve around building intelligent systems, optimizing algorithms, and solving real-world problems using AI.
 
 ## 🚀 About Me
-- 🎓 **Current Student**: 3rd-year **Computer Science** major at uOttawa.
+- 🎓 **Current Student**: 4th-year **Computer Science** major at uOttawa.
 - 💡 **Passionate about AI & ML**: Exploring Deep Learning, NLP, and Computer Vision.
 - 🏗️ **Software Developer**: Strong experience in Python, Java, and C++.
 - ⚙️ **Co-op & Research Experience**: Worked on AI-driven projects and data analytics.
