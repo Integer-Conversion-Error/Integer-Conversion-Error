@@ -17,7 +17,7 @@ Fourth-year Computer Science student at the University of Ottawa focused on AI-d
 
 ## Skills Snapshot
 - Languages: Python, TypeScript/JavaScript, C++, Java, SQL
-- AI/ML: PyTorch, TensorFlow, ONNX Runtime, RKNN Toolkit, YOLOv5/8, NanoDet, MobileNet, OpenCV, LoRA fine-tuning, RAG pipelines
+- AI/ML: PyTorch, TensorFlow, YOLOv11, ESPDet, MobileNet, OpenCV, LoRA fine-tuning, RAG pipelines
 - Backend/Data: NestJS, GraphQL (Apollo), REST/gRPC, PostgreSQL + PostGIS, Redis, Docker, Linux, Armbian, CI/CD fundamentals
 - Frontend/Apps: React Native (Expo), React Admin, Streamlit
 - Hardware/IoT: Orange Pi 5, ESP32-S3, mmWave radar, LIS3DH accelerometers, LTE Cat-1/Cat-4 modems, GPS, microSD/rolling buffers, ESP-NOW/Wi-Fi mesh
