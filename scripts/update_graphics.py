@@ -19,6 +19,7 @@ USERNAME = os.environ.get("PROFILE_USERNAME", "Integer-Conversion-Error")
 
 
 def save_svg(filename, content):
+    content = ("\n".join(line.rstrip() for line in content.decode().splitlines()).strip() + "\n").encode()
     root = ET.fromstring(content)
     if root.tag != "{http://www.w3.org/2000/svg}svg":
         raise ValueError("Response is not an SVG")
@@ -121,10 +122,11 @@ def main():
         ("github-stats.svg", lambda: download_card(
             "github-stats.svg", "https://github-readme-stats.vercel.app/api",
             {"username": USERNAME, "show_icons": "true", "theme": "github_dark",
-             "hide_border": "true", "hide_rank": "true"}, "Total Commits")),
+             "hide_border": "true", "hide_rank": "true", "disable_animations": "true"}, "Total Commits")),
         ("github-streak.svg", lambda: download_card(
             "github-streak.svg", "https://github-readme-streak-stats.herokuapp.com/",
-            {"user": USERNAME, "theme": "github-dark-blue", "hide_border": "true"},
+            {"user": USERNAME, "theme": "github-dark-blue", "hide_border": "true",
+             "disable_animations": "true"},
             "Current Streak")),
         ("github-activity.svg", activity_graph),
     ]
