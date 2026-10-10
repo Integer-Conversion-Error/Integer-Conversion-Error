@@ -33,3 +33,12 @@ I've worked on software and support teams at Entrust, Solace, and the Communicat
 ## Tools
 
 Python, TypeScript, Go, C++, Java, SQL; React, React Native, NestJS, PostgreSQL, Docker, Linux, OpenCV, ESP32.
+
+## GitHub Stats
+
+<p>
+  <img src="./assets/github-stats.svg" alt="Esad's GitHub statistics" height="180" />
+  <img src="./assets/github-streak.svg" alt="Total contributions, current streak, and longest streak" height="180" />
+</p>
+
+![GitHub contributions over the last 31 days](./assets/github-activity.svg)
